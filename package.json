@@ -1,7 +1,6 @@
 {
-  "name": "n8n-hostinger",
+  "name": "n8n-outreach",
   "version": "1.0.0",
-  "description": "Lead Gen Automation",
   "main": "index.js",
   "scripts": {
     "start": "npx n8n start"
