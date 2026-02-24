@@ -5,6 +5,9 @@
   "scripts": {
     "start": "npx n8n start"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "n8n": "latest"
   }
