@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "npx n8n start"
-  },
-  "engines": {
-    "node": ">=18.0.0"
+    "start": "node index.js"
   },
   "dependencies": {
     "n8n": "latest"
