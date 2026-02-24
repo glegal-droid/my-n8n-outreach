@@ -1,0 +1,12 @@
+{
+  "name": "n8n-hostinger",
+  "version": "1.0.0",
+  "description": "Lead Gen Automation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n start"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  }
+}
